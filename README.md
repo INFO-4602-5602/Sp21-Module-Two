@@ -14,7 +14,7 @@ Once you’ve found a dataset you wish to work with, you’ll create three visua
 <li>	Your data source should be described and cited somewhere in the piece. Note that not all data stories you find online will do this (however, it is good practice to provide transparency into your data whenever possible). </li>
 </ul>
 
-You will submit either a notebook or a document with a link to the submission online. Note that if you embed your visualizations into a website, make sure to also submit your notebook and/or source code files containing the original source. You can use code from example galleries or other online sources in your visualizations, but you must cite your source for your code in your comments or document. 
+You will submit either a notebook, webpage, or a document with a link to your submission online. Note that if you embed your visualizations into a website, make sure to also submit your notebook and/or source code files containing the original source. You can use code from example galleries or other online sources in your visualizations, but you must cite your source for your code in your comments or document. 
 
 The rubric for this assignment is as follows: 
 <ul>
