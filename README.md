@@ -1,4 +1,4 @@
-# Assignment-Two: Data Three Ways
+# Assignment Two: Data Three Ways
 *Due 3.5 by 11:59pm*
 
 Visualizations offer different lenses on our data. As we saw when working with misleading visualizations, showing the same data in different ways can generate very different conclusions. This assignment will give you hands-on experience creating visualizations that let you view your data from different angles.
